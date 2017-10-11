@@ -1,0 +1,46 @@
+pwd
+This command shows the name of the current working directory.
+
+vi
+vi is used to create,read and write into a file.
+
+touch
+The touch command updates the access and modification times of each FILE to the current system time.
+
+mkdir
+Create the directory or directories, if they do not already exist.
+
+rm
+The rm command removes (deletes) files or directories.
+
+ls
+List files in the current working directory except those starting with . and only show the file name
+
+echo
+echo displays a line of text.
+
+cat 
+Sends file contents to standard output. This is a way to list the contents of short files to the screen.
+
+who
+We use who command to display users who are currently logged in your server.
+
+cd
+This command will take to you to the parent directory of your current working directory.
+
+date
+The date command is used to print out, or change the value of, the system's time and date information.
+
+cal
+It is used To display a calendar.
+
+mv
+The mv command is used to move or rename files.
+
+cp
+cp myfile yourfile -  This command copies the file "myfile" to the file "yourfile" in the current working directory. This command will create the file "yourfile" if it doesn't exist. It will normally overwrite it without warning if it exists. In order to get a prompt before overwritting, add a "-i" option like this to your command - cp -i myfile yourfile. Also, in order to copy a file from some location to your current directory you can do this - cp -i /some/other/location .
+
+which
+Locate the executable file associated with a given command.
+
+
